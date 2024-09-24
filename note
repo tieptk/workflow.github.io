@@ -1,0 +1,7 @@
+tạo tên tiến trình 
+tạo danh sách tiến trình sẵn
+sửa xóa -> 
+lưu lại
+
+
+check flow với data mainNode với nếu flow == key của mainNode thì tạo ra node và một node là add-node nối với node mới tạo
