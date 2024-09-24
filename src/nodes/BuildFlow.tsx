@@ -26,7 +26,7 @@ const BuildFlow = () => {
     setShowPopup(false);
   };
 
-  const handleSelectFlow = (flow) => {
+  const handleSelectFlow = (flow:) => {
     setSelectedFlow(flow); // Lưu flow đã chọn
     hidePopup(); // Ẩn popup sau khi chọn flow
 
